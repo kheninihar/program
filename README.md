@@ -1,2 +1,2 @@
-# program
-second program
+hi...
+this is practical for c++  program
